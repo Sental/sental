@@ -3,15 +3,6 @@
 [<img align="left" alt="Rees Solutions" width="70px" src="./img/rees-solutions.webp" style="padding-right:10px;" />][website]
 ### [Rees.Solutions][website]
 
----
-
-- 🔭 I’m currently working on finding my next extension idea.
-- 🌱 I’m currently learning nginx & varnish configuration.
-
----
-
-
-
 ## Take a look at my Modules on the Magento Marketplace
 [<img align="left" alt="Rees Solutions" width="70px" src="./img/customer-attributes.webp" style="padding-right:10px;" />][customerAttributes]
 ### [Take a look at my customer attributes system for Magento 2][customerAttributes]
